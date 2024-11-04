@@ -1,2 +1,2 @@
-Link to live: https://student-registration-ten.vercel.app/
-github project link : https://github.com/Raj2902/student_registration
+Link to live: https://student-registration-delta.vercel.app/
+github project link : https://github.com/Ashishgupta80/student_registration
